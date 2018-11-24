@@ -4,7 +4,7 @@ The code in this repository produces an interactive plot for tracing average rus
 
 This interactive visualization is built as a Shiny App, and is hosted [here.](https://aaronweinstock.shinyapps.io/NFL_Offense_Trends/) Please visit this link to interact with the plot!
 \
-\
+
 
 ### **Plot Options**
 
@@ -24,7 +24,7 @@ Below, the options for the interactive portion of this plot are detailed:
 
 Refer to `Example_Interaction.png` in the main directory for an example of a visualization produced by the interacting with the app in the above described ways. This plot compares the rushing yards/game of the New York Jets and New England Patriots (with a baseline of the annual NFL average) between 1970 -- the year these two teams entered the NFL -- and 2012. This was acheived with the parameter selections *Rushing, Yes, New York Jets New England Patriots, 1966, and 2012* (respectively, for options 1 through 5). 
 \
-\
+
 
 ### **Code and Files**
 

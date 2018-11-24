@@ -21,7 +21,7 @@ Below, the options for the interactive portion of this plot are detailed:
 
 5. **Select your maximum year:** Slide the bar to the latest desired year for which to display data. Default is *2012* (most recent year available in the data used).
 
-Refer to `Example_Interaction.png` in the main directory for an example of a visualization produced by the interacting with the app in the above described ways. This plot compares the rushing yards/game of the New York Jets and New England Patriots (with a baseline of the annual NFL average) between 1970 -- the year these two teams entered the NFL -- and 2012. This was acheived with the parameter selections *Rushing, Yes, New York Jets New England Patriots, 1966, and 2012* (respectively, for options 1 through 5). 
+Refer to `Example_Interaction.png` in the main directory for an example of a visualization produced by the interacting with the app in the above described ways. This plot compares the rushing yards/game of the New York Jets and New England Patriots (with a baseline of the annual NFL average) between 1970 -- the year these two teams entered the NFL -- and 2012. This was acheived with the parameter selections *Rushing, Yes, New York Jets New England Patriots, 1970, and 2012* (respectively, for options 1 through 5). 
 
 
 ### **Code and Files**
